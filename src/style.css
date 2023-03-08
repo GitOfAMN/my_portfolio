@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap');
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: pink;
+    color: ghostwhite;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.App{
+    display: flex;
+    flex-direction: column;
+    background-color: #fdfcf1;
+    font-size: 24px;
+    font-family: 'Zeyada', cursive;
+}
