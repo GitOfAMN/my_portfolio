@@ -1,21 +1,22 @@
-@import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
 
 .nav {
     display: flex;
     justify-content: space-around;
-    background-color: pink;
+    /* background-color: rgb(249, 249, 246); */
     color: ghostwhite;
 }
 
 .nav a {
-    color: white;
+    color: black;
     text-decoration: none;
+    font-weight: bold;
 }
 
 .App{
     display: flex;
     flex-direction: column;
-    background-color: #fdfcf1;
+    background: linear-gradient(to bottom right, ghostwhite 0%, #FBFBBA 100%);
     font-size: 24px;
-    font-family: 'Zeyada', cursive;
+    font-family: 'Cutive Mono', monospace;
 }
