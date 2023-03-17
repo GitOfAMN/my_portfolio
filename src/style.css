@@ -1,4 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body {
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+
+.page {
+    max-width: 500px;
+    margin: auto;
+}
 
 .nav {
     display: flex;
@@ -11,6 +23,7 @@
     color: black;
     text-decoration: none;
     font-weight: bold;
+    font-family: 'Permanent Marker', cursive;
 }
 
 .App{

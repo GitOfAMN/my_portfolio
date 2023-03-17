@@ -1,10 +1,9 @@
 // Index Page
-import { Link } from 'react-router-dom'
 
 export default function About(props) {
     return (
         <div className='about'>
-            <p>For every complex problem, there is a creative solution; and that's where I come in.<br></br><br></br>
+            <p>For every complex problem, there is a creative solution; that's where I come in.<br></br><br></br>
 
                 My inquisitive nature recently led me to delve into the world of software engineering. With this, I bring skills in building full-stack web applications, along with nearly 20 years combined experience and expertise in Program Management, customer service/sales and cross-functional team leadership, to the dynamic field of web development.<br></br><br></br>
 
